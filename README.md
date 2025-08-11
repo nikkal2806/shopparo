@@ -1,0 +1,2 @@
+# shopparo
+Shopparo app
